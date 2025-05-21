@@ -1,10 +1,12 @@
-<div align="center">
+<div align="center">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
   <h1><a href="https://shsarv.github.io/Machine-Learning-Projects/">Machine Learning Projects</a></h1>
   <img alt="GIF" src="Resources/banner.gif" />
 </div>
 
 <p align="center">
   <a href="https://github.com/shsarv/Machine-Learning-Projects"><strong>Explore the docs »</strong></a>
+  <br/>
+  <br/>
   <br/>
   <a href="https://github.com/shsarv/Machine-Learning-Projects/issues">Report Bug</a>
   ·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
